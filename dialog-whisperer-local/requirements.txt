@@ -1,0 +1,9 @@
+pytesseract
+pyttsx3
+mss
+Pillow
+numpy
+sounddevice
+keyboard
+pytest
+pytest-mock
